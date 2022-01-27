@@ -1,5 +1,5 @@
 let fs = require('fs')
-global.owner = ['6285346545126', '6282256048971'] // Letakan nomor kamu disini
+global.owner = ['60189830350', '60149431385'] // Letakan nomor kamu disini
 global.mods = [] // Moderator?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
@@ -34,19 +34,19 @@ global.APIKeys = { // APIKey nya disini
   'http://zekais-api.herokuapp.com': 'grqgD6pU',
   'https://api.zeks.xyz': 'chika-key',
   'https://api.vhtear.com': 'sayahafiz',
-  'https://api.lolhuman.xyz.com': 'raselunyu',
+  'https://api.lolhuman.xyz.com': '886e0ade87d2da2cab7f1906',
   'https://fxc7-api.herokuapp.com': 'uN8rsK4g',
   'https://api.justaqul.xyz': '5kbUqdG00OXelFYx',
 }
 
 // Sticker WM
-global.packname = '𝑳𝒖𝒄𝒖 乂⁩ 𝑩𝒐𝒕'
-global.author = '@rasel.ganz\n         ×͜×'
+global.packname = '𝑳𝒚𝒏 乂⁩ 𝑩𝒐𝒕'
+global.author = '@𝙻𝚈𝙽𝚡𝙱𝙾𝚃𝚉\n         ×͜×'
 
 global.wait = '*Tunggu sebentar ya sayang*'
 global.eror = 'Maaf terjadi kesalahan'
 global.fla = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text='
-global.watermark = '© rasel ×͜×' //change the watermark (beberapa harus manual)
+global.watermark = '© 𝐋𝐲𝐧 ×͜×' //change the watermark (beberapa harus manual)
 global.version = '𝑳𝑼𝑪𝑼 𝑩𝑶𝑻 @^1.1.4'
 global.ttq = `Thanks to:
 •Allah swt
@@ -65,14 +65,14 @@ Jika menemukan bug atau request fitur dan join bot harap chat owner dengan cara:
 
 (Bot join group NOT FREE!)
 Price:
-10K untuk 1 bulan
+RM25 untuk 1 bulan
 Untuk 1 group
 
 Nb:bot ini masih terus dikembangkan.`
 global.ppkosong = 'https://telegra.ph/file/22fd84e4a3244e1b17e4e.png'//don't change 
 global.ppgc = 'https://telegra.ph/file/22fd84e4a3244e1b17e4e.png'//don't change 
-global.image = 'https://telegra.ph/file/c9a5e49b5336604baa137.jpg'//change image
-global.thumbfoto = 'https://telegra.ph/file/c9a5e49b5336604baa137.jpg' //change thumbnail foto tools
+global.image = 'https://telegra.ph/file/50165e2a37a844cd5667f.jpg'//change image
+global.thumbfoto = 'https://telegra.ph/file/ee8d0291e6fbc682ca73b.jpg' //change thumbnail foto tools
 global.yamete = 'https://telegra.ph/file/f7b13f18a1f21e5ca6aed.jpg' //change qr donate
 global.sumberurl = 'https://instagram.com/rasel.ganz'
 global.deskripsiurl = 'Saya adalah Bot WhatsApp ×͜×.'
